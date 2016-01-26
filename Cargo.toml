@@ -1,0 +1,8 @@
+[package]
+authors = ["Mikkel Kroman <mk@uplink.io>"]
+name = "mumble"
+version = "0.1.0"
+
+[dependencies]
+mio = "0.5.0"
+openssl = "0.7.5"
